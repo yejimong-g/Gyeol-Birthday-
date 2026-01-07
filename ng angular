@@ -1,0 +1,2 @@
+ng add angular-cli-ghpages 
+ng deploy --base-href=/## 결이 생일 축하 ##/
