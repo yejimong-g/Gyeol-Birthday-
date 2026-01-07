@@ -10,7 +10,7 @@ const About = () => {
       <Bar />
       <div className="font-kangwon-light text-xl space-y-8 flex flex-col items-center py-10 border-2 border-purple1 px-8 rounded-lg mt-8 bg-purple1/30">
         <span>* 사용된 기술 : React.js, Next.js, Typescript, TailwindCSS</span>
-        <span>* 개발 기간 : 2026. 1. 7. 하루!</span>
+        <span>* 개발 기간 : 202?. ??. ??. 몰라!</span>
         <span>* Made by 신예지</span>
         <button
           onClick={() =>
